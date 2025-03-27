@@ -78,11 +78,11 @@ Make sure you have the following installed:
 
 Here are some screenshots of **Loop Talk**:
 
-![Screenshot 1](./screenshots/look4.PNG)
-![Screenshot 2](./screenshots/look5.PNG)
-![Screenshot 3](./screenshots/look6.PNG)
-![Screenshot 4](./screenshots/look7.PNG)
-![Screenshot 5](./screenshots/look8.PNG)
+[![Screenshot 1](./screenshots/look4.PNG)](https://github.com/SUMANKAYALS/chat-app/blob/959c30792bfb1c32fdf5532ac26fc94b1c0ffcee/look4.PNG)
+[![Screenshot 2](./screenshots/look5.PNG)](https://github.com/SUMANKAYALS/chat-app/blob/959c30792bfb1c32fdf5532ac26fc94b1c0ffcee/look5.PNG)
+[![Screenshot 3](./screenshots/look6.PNG)](https://github.com/SUMANKAYALS/chat-app/blob/959c30792bfb1c32fdf5532ac26fc94b1c0ffcee/look6.PNG)
+[![Screenshot 4](./screenshots/look7.PNG)](https://github.com/SUMANKAYALS/chat-app/blob/959c30792bfb1c32fdf5532ac26fc94b1c0ffcee/look7.PNG)
+[![Screenshot 5](./screenshots/look8.PNG)](https://github.com/SUMANKAYALS/chat-app/blob/959c30792bfb1c32fdf5532ac26fc94b1c0ffcee/look8.PNG)
 
 ## 🚀 Deployment
 
