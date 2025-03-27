@@ -103,5 +103,5 @@ Contributions are welcome! If you'd like to improve **Loop Talk**, follow these 
 ## 📬 Contact
 
 For any queries or support, reach out at:
-📧 Email: your-email@example.com  
+📧 Email: your-suman13kayal@gmail.com
 🐙 GitHub: [your-github](https://github.com/SUMANKAYALS)
