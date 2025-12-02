@@ -18,7 +18,7 @@ app.use(
     cors({
         origin: [
             "http://localhost:5173",
-            process.env.FRONTEND_URL
+            process.env.FRONTEND_URL || "https://looptalk-s.onrender.com"
         ],
         credentials: true,
     })
